@@ -1,0 +1,9 @@
+notes for "data story 1 - labor stoppages" file annual-listing.xlsx that I'm csv'ing:
+
+
+[2] Days idle includes all stoppages in effect during the reference period. For work stoppages that are still ongoing at the end of the calendar year, only those days of idleness in the calendar year are counted. 
+[3] Percent of estimated working time is calculated using employment estimates from the Current Employment Statistics program and the number of workdays in the month and number of days idle from the Work Stoppages program.
+[4] Data not available.
+[5] Less than .005.
+
+source of file was:  https://www.bls.gov/wsp/ - this seems to be updated monthly
